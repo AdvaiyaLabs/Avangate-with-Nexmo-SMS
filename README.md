@@ -1,6 +1,6 @@
 #Avangate with Nexmo SMS
 
-<img src= "https://raw.githubusercontent.com/AdvaiyaLabs/Avangate-with-Nexmo-SMS/master/Docs/image1.PNG" width=200>
+<img src= "https://raw.githubusercontent.com/AdvaiyaLabs/Avangate-with-Nexmo-SMS/master/Docs/image1.png" width=200>
 
 ##Introduction
 
@@ -19,8 +19,11 @@ Avangate with Nexmo SMS will send the SMS on following events: 
     1.  **For Store Owner: ** 
 
 		\#&lt;&lt;order no&gt;&gt;
+		
 		Avngt Ref.: &lt;&lt;order id&gt;&gt;
+		
 		Order Total: &lt;&lt;amount&gt;&gt;
+		
 		Status: PAYMENT\_AUTHORIZED
 
 	2.  **For Customer:** Your order id &lt;&lt;order id&gt;&gt; payment of &lt;&lt;amount&gt;&gt; is done.
@@ -31,8 +34,11 @@ Avangate with Nexmo SMS will send the SMS on following events: 
     1.  **For Store Owner:** 
 
 		\#&lt;&lt;order no&gt;&gt;
+		
 		Avngt Ref.: &lt;&lt;order id&gt;&gt;
+		
 		Order Total: &lt;&lt;amount&gt;&gt;
+		
 		Status: REVERSED
 
 	2.  **For Customer:** Your order id &lt;&lt;order id&gt;&gt; payment of &lt;&lt;amount&gt;&gt; is refunded.
@@ -66,11 +72,13 @@ Avangate with Nexmo SMS will send the SMS on following events: 
 ###Create Webhook URL using Avangate with Nexmo SMS 
 
 1.  Access the Avangate with Nexmo SMS app using public URL as explained above.
+	
 	<img src= "https://raw.githubusercontent.com/AdvaiyaLabs/Avangate-with-Nexmo-SMS/master/Docs/image3.png" width=400>
 
 2.  Type the correct Nexmo API credentials and click on **Validate**.
 
 3.  On valid API, you will see the configuration page as below:
+
     <img src= "https://raw.githubusercontent.com/AdvaiyaLabs/Avangate-with-Nexmo-SMS/master/Docs/image4.png" width=400>
 
     -   Select the **From Number** from the dropdown list.
@@ -92,34 +100,43 @@ Avangate with Nexmo SMS will send the SMS on following events: 
 1.  Login to the Avangate cpanel with your credentials**.**
 
 2.  On the Avangate dashboard, under the section **Step 1,** click on IPN link.
+
     <img src= "https://raw.githubusercontent.com/AdvaiyaLabs/Avangate-with-Nexmo-SMS/master/Docs/image6.png" width=400>
 
 3.  Set the copied URL under **IPN URL** label which is under the **URL** section as shown below:
+
     <img src= "https://raw.githubusercontent.com/AdvaiyaLabs/Avangate-with-Nexmo-SMS/master/Docs/image7.png" width=400>
 
 4.  Click on **Save**.
 
-5.  Stay on the IPN settings page and select **Notification settings** as shown below**:
-    **<img src= "https://raw.githubusercontent.com/AdvaiyaLabs/Avangate-with-Nexmo-SMS/master/Docs/image8.png" width=400>
+5.  Stay on the IPN settings page and select **Notification settings** as shown below:
+
+    <img src= "https://raw.githubusercontent.com/AdvaiyaLabs/Avangate-with-Nexmo-SMS/master/Docs/image8.png" width=400>
 
 6.  Click **Save.**
 
 7.  Select all the notification statuses, which are listed under the **Notification Details** and click **Save.**
 
-8.  Click on **System settings** tab, select **Email Text & IPN** option to receive notifications. <img src= "https://raw.githubusercontent.com/AdvaiyaLabs/Avangate-with-Nexmo-SMS/master/Docs/image9.png" width=400>
+8.  Click on **System settings** tab, select **Email Text & IPN** option to receive notifications. 
+
+	<img src= "https://raw.githubusercontent.com/AdvaiyaLabs/Avangate-with-Nexmo-SMS/master/Docs/image9.png" width=400>
 
 9.  Click on **Update Settings** at the end of the page.
+
     <img src= "https://raw.githubusercontent.com/AdvaiyaLabs/Avangate-with-Nexmo-SMS/master/Docs/image10.png" width=400>
 
 ##Steps to use Avangate with Nexmo SMS 
 
 1.  To test webhook working correctly, click on **Generate links** from Menu.
+
     <img src= "https://raw.githubusercontent.com/AdvaiyaLabs/Avangate-with-Nexmo-SMS/master/Docs/image11.png" width=400>
 
 2.  Select the product from the Link section under the **Sales Link** tab. 
+
 	<img src= "https://raw.githubusercontent.com/AdvaiyaLabs/Avangate-with-Nexmo-SMS/master/Docs/image12.png" width=400>
 
 3.  Go to the end of the page and click **Place a test order**.
+
     <img src= "https://raw.githubusercontent.com/AdvaiyaLabs/Avangate-with-Nexmo-SMS/master/Docs/image13.png" width=400>
 
 4.  You may be redirected to the checkout page. Follow the instruction as given there to checkout and place a test order.
