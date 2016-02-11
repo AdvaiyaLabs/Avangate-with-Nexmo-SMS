@@ -1,0 +1,1400 @@
+\n\nLOGS START =======================================\n\n
+THRESHOLD5
+STORE OWNER917073111585
+SECRETVQfCT8O(GF@J)Ha5RXvt
+AUTHRECEIVED :  Your order id 45982870 payment of 10.00 EUR is In progress.
+PENDING :  Your order id 45982870 payment of 10.00 EUR is Pending.
+COMPLETE :  Your order id 45982870 payment of 10.00 EUR is fulfilled.
+CANCELED :  Your order id 45982870 payment of 10.00 EUR is canceled payment..
+REVERSED :  Your order id 45982870 payment of 10.00 EUR is shopper cannot fullfill..
+REFUND :  Your order id 45982870 payment of 10.00 EUR is refunded.
+PAYMENT_AUTHORIZED :  Your order id 45982870 payment of 10.00 EUR is done.
+INVALID :  Your order id 45982870 payment of 10.00 EUR is Billing/Delivery information is not valid.
+PAYMENT_RECEIVED :  Your order id 45982870 payment of 10.00 EUR is received.
+PENDING_APPROVAL :  Your order id 45982870 payment of 10.00 EUR is waiting for approval.
+STATUSdone
+STATUS 2PAYMENT_AUTHORIZED
+MESSAGE_NIRAV Your order id 45982870 payment of 10.00 EUR is done.
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=917073111585&text=Your+order+id+45982870+payment+of+10.00+EUR+is+done.
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "917073111585",
+        "message-id": "03000000C6C43CEB",
+        "status": "0",
+        "remaining-balance": "0.80188300",
+        "message-price": "0.01200000",
+        "network": "40470"
+    }]
+}
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=917073111585&text=%23%3A+45%0AAvngt+Ref.%3A+45982870%0AOT%3A+10.00%0ASTS%3A+PAYMENT_AUTHORIZED
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "917073111585",
+        "message-id": "02000000AE1B0BDA",
+        "status": "0",
+        "remaining-balance": "0.78988300",
+        "message-price": "0.01200000",
+        "network": "40470"
+    }]
+}
+KEY DATA7467471612Test Product14201601181208161420160118120816
+KEY HASH <EPAYMENT>20160118120816|8894dbe440e6b4f871410812b5f81d0b</EPAYMENT>
+\n\nLOGS START =======================================\n\n
+THRESHOLD5
+STORE OWNER917073111585
+SECRETVQfCT8O(GF@J)Ha5RXvt
+AUTHRECEIVED :  Your order id 45836795 payment of 5.00 EUR is In progress.
+PENDING :  Your order id 45836795 payment of 5.00 EUR is Pending.
+COMPLETE :  Your order id 45836795 payment of 5.00 EUR is fulfilled.
+CANCELED :  Your order id 45836795 payment of 5.00 EUR is canceled payment..
+REVERSED :  Your order id 45836795 payment of 5.00 EUR is shopper cannot fullfill..
+REFUND :  Your order id 45836795 payment of 5.00 EUR is refunded.
+PAYMENT_AUTHORIZED :  Your order id 45836795 payment of 5.00 EUR is done.
+INVALID :  Your order id 45836795 payment of 5.00 EUR is Billing/Delivery information is not valid.
+PAYMENT_RECEIVED :  Your order id 45836795 payment of 5.00 EUR is received.
+PENDING_APPROVAL :  Your order id 45836795 payment of 5.00 EUR is waiting for approval.
+STATUSdone
+STATUS 2PAYMENT_AUTHORIZED
+MESSAGE_NIRAV Your order id 45836795 payment of 5.00 EUR is done.
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=917073111585&text=Your+order+id+45836795+payment+of+5.00+EUR+is+done.
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "917073111585",
+        "message-id": "03000000C6C67DC8",
+        "status": "0",
+        "remaining-balance": "0.76588300",
+        "message-price": "0.01200000",
+        "network": "40470"
+    }]
+}
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=917073111585&text=%23%3A+47%0AAvngt+Ref.%3A+45836795%0AOT%3A+5.00%0ASTS%3A+PAYMENT_AUTHORIZED
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "917073111585",
+        "message-id": "03000000C6C67DF4",
+        "status": "0",
+        "remaining-balance": "0.75388300",
+        "message-price": "0.01200000",
+        "network": "40470"
+    }]
+}
+KEY DATA7467471612Test Product14201601181221371420160118122137
+KEY HASH <EPAYMENT>20160118122137|be0f5f1d9aa9f9ea56883406f1d4e414</EPAYMENT>
+\n\nLOGS START =======================================\n\n
+THRESHOLD5
+STORE OWNER917073111585
+SECRETVQfCT8O(GF@J)Ha5RXvt
+AUTHRECEIVED :  Your order id 45836387 payment of 1.00 EUR is In progress.
+PENDING :  Your order id 45836387 payment of 1.00 EUR is Pending.
+COMPLETE :  Your order id 45836387 payment of 1.00 EUR is fulfilled.
+CANCELED :  Your order id 45836387 payment of 1.00 EUR is canceled payment..
+REVERSED :  Your order id 45836387 payment of 1.00 EUR is shopper cannot fullfill..
+REFUND :  Your order id 45836387 payment of 1.00 EUR is refunded.
+PAYMENT_AUTHORIZED :  Your order id 45836387 payment of 1.00 EUR is done.
+INVALID :  Your order id 45836387 payment of 1.00 EUR is Billing/Delivery information is not valid.
+PAYMENT_RECEIVED :  Your order id 45836387 payment of 1.00 EUR is received.
+PENDING_APPROVAL :  Your order id 45836387 payment of 1.00 EUR is waiting for approval.
+STATUSdone
+STATUS 2PAYMENT_AUTHORIZED
+MESSAGE_NIRAV Your order id 45836387 payment of 1.00 EUR is done.
+KEY DATA7467471612Test Product14201601181225021420160118122502
+KEY HASH <EPAYMENT>20160118122502|b0ea45798952c2f6883ad20edbbe7d00</EPAYMENT>
+\n\nLOGS START =======================================\n\n
+THRESHOLD5
+STORE OWNER917073111585
+SECRETVQfCT8O(GF@J)Ha5RXvt
+AUTHRECEIVED :  Your order id 45836795 payment of 5.00 EUR is In progress.
+PENDING :  Your order id 45836795 payment of 5.00 EUR is Pending.
+COMPLETE :  Your order id 45836795 payment of 5.00 EUR is fulfilled.
+CANCELED :  Your order id 45836795 payment of 5.00 EUR is canceled payment..
+REVERSED :  Your order id 45836795 payment of 5.00 EUR is shopper cannot fullfill..
+REFUND :  Your order id 45836795 payment of 5.00 EUR is refunded.
+PAYMENT_AUTHORIZED :  Your order id 45836795 payment of 5.00 EUR is done.
+INVALID :  Your order id 45836795 payment of 5.00 EUR is Billing/Delivery information is not valid.
+PAYMENT_RECEIVED :  Your order id 45836795 payment of 5.00 EUR is received.
+PENDING_APPROVAL :  Your order id 45836795 payment of 5.00 EUR is waiting for approval.
+STATUSfulfilled
+STATUS 2COMPLETE
+MESSAGE_NIRAV Your order id 45836795 payment of 5.00 EUR is fulfilled.
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=917073111585&text=Your+order+id+45836795+payment+of+5.00+EUR+is+fulfilled.
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "917073111585",
+        "message-id": "02000000AE1F64D4",
+        "status": "0",
+        "remaining-balance": "0.74188300",
+        "message-price": "0.01200000",
+        "network": "40470"
+    }]
+}
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=917073111585&text=%23%3A+47%0AAvngt+Ref.%3A+45836795%0AOT%3A+5.00%0ASTS%3A+COMPLETE
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "917073111585",
+        "message-id": "02000000AE1F64E7",
+        "status": "0",
+        "remaining-balance": "0.72988300",
+        "message-price": "0.01200000",
+        "network": "40470"
+    }]
+}
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=917073111585&text=%23%3A+47%0AAvngt+Ref.%3A+45836795%0AOT%3A+5.00%0ASTS%3A+COMPLETE
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "917073111585",
+        "message-id": "03000000C6C8A6E9",
+        "status": "0",
+        "remaining-balance": "0.71788300",
+        "message-price": "0.01200000",
+        "network": "40470"
+    }]
+}
+KEY DATA7467471612Test Product14201601181234291420160118123429
+KEY HASH <EPAYMENT>20160118123429|c9f03be9dfadc8d08bc5ac9b998c38a2</EPAYMENT>
+\n\nLOGS START =======================================\n\n
+THRESHOLD5
+STORE OWNER917073111585
+SECRETVQfCT8O(GF@J)Ha5RXvt
+AUTHRECEIVED :  Your order id  payment of   is In progress.
+PENDING :  Your order id  payment of   is Pending.
+COMPLETE :  Your order id  payment of   is fulfilled.
+CANCELED :  Your order id  payment of   is canceled payment..
+REVERSED :  Your order id  payment of   is shopper cannot fullfill..
+REFUND :  Your order id  payment of   is refunded.
+PAYMENT_AUTHORIZED :  Your order id  payment of   is done.
+INVALID :  Your order id  payment of   is Billing/Delivery information is not valid.
+PAYMENT_RECEIVED :  Your order id  payment of   is received.
+PENDING_APPROVAL :  Your order id  payment of   is waiting for approval.
+STATUS
+STATUS 2
+MESSAGE_NIRAV Your order id  payment of   is .
+KEY DATA0000
+KEY HASH <EPAYMENT>|2600adb3e0fb363ef0c8816237202c03</EPAYMENT>
+\n\nLOGS START =======================================\n\n
+THRESHOLD5
+STORE OWNER917073111585
+SECRETVQfCT8O(GF@J)Ha5RXvt
+AUTHRECEIVED :  Your order id 45836795 payment of -5.00 EUR is In progress.
+PENDING :  Your order id 45836795 payment of -5.00 EUR is Pending.
+COMPLETE :  Your order id 45836795 payment of -5.00 EUR is fulfilled.
+CANCELED :  Your order id 45836795 payment of -5.00 EUR is canceled payment..
+REVERSED :  Your order id 45836795 payment of -5.00 EUR is shopper cannot fullfill..
+REFUND :  Your order id 45836795 payment of -5.00 EUR is refunded.
+PAYMENT_AUTHORIZED :  Your order id 45836795 payment of -5.00 EUR is done.
+INVALID :  Your order id 45836795 payment of -5.00 EUR is Billing/Delivery information is not valid.
+PAYMENT_RECEIVED :  Your order id 45836795 payment of -5.00 EUR is received.
+PENDING_APPROVAL :  Your order id 45836795 payment of -5.00 EUR is waiting for approval.
+STATUSrefunded
+STATUS 2REFUND
+MESSAGE_NIRAV Your order id 45836795 payment of -5.00 EUR is refunded.
+KEY DATA7467471612Test Product14201601181601211420160118160121
+KEY HASH <EPAYMENT>20160118160121|192462c5610dcf04a485b69dd3591d48</EPAYMENT>
+\n\nLOGS START =======================================\n\n
+THRESHOLD5
+STORE OWNER917073111585
+SECRETVQfCT8O(GF@J)Ha5RXvt
+AUTHRECEIVED :  Your order id 44688690 payment of 1.00 USD is In progress.
+PENDING :  Your order id 44688690 payment of 1.00 USD is Pending.
+COMPLETE :  Your order id 44688690 payment of 1.00 USD is fulfilled.
+CANCELED :  Your order id 44688690 payment of 1.00 USD is canceled payment..
+REVERSED :  Your order id 44688690 payment of 1.00 USD is shopper cannot fullfill..
+REFUND :  Your order id 44688690 payment of 1.00 USD is refunded.
+PAYMENT_AUTHORIZED :  Your order id 44688690 payment of 1.00 USD is done.
+INVALID :  Your order id 44688690 payment of 1.00 USD is Billing/Delivery information is not valid.
+PAYMENT_RECEIVED :  Your order id 44688690 payment of 1.00 USD is received.
+PENDING_APPROVAL :  Your order id 44688690 payment of 1.00 USD is waiting for approval.
+STATUSshopper cannot fullfill.
+STATUS 2REVERSED
+MESSAGE_NIRAV Your order id 44688690 payment of 1.00 USD is shopper cannot fullfill..
+KEY DATA746691788product214201601200530571420160120053057
+KEY HASH <EPAYMENT>20160120053057|2f5c3c14fbf91e4037513b766926b94c</EPAYMENT>
+\n\nLOGS START =======================================\n\n
+THRESHOLD5
+STORE OWNER917073111585
+SECRETVQfCT8O(GF@J)Ha5RXvt
+AUTHRECEIVED :  Your order id 44821657 payment of 1.00 USD is In progress.
+PENDING :  Your order id 44821657 payment of 1.00 USD is Pending.
+COMPLETE :  Your order id 44821657 payment of 1.00 USD is fulfilled.
+CANCELED :  Your order id 44821657 payment of 1.00 USD is canceled payment..
+REVERSED :  Your order id 44821657 payment of 1.00 USD is shopper cannot fullfill..
+REFUND :  Your order id 44821657 payment of 1.00 USD is refunded.
+PAYMENT_AUTHORIZED :  Your order id 44821657 payment of 1.00 USD is done.
+INVALID :  Your order id 44821657 payment of 1.00 USD is Billing/Delivery information is not valid.
+PAYMENT_RECEIVED :  Your order id 44821657 payment of 1.00 USD is received.
+PENDING_APPROVAL :  Your order id 44821657 payment of 1.00 USD is waiting for approval.
+STATUSshopper cannot fullfill.
+STATUS 2REVERSED
+MESSAGE_NIRAV Your order id 44821657 payment of 1.00 USD is shopper cannot fullfill..
+KEY DATA746691788product214201601200531001420160120053100
+KEY HASH <EPAYMENT>20160120053100|d26223047c9653d1bc79e7c02f8d39ef</EPAYMENT>
+\n\nLOGS START =======================================\n\n
+THRESHOLD5
+STORE OWNER917073111585
+SECRETVQfCT8O(GF@J)Ha5RXvt
+AUTHRECEIVED :  Your order id 44863092 payment of 1.00 USD is In progress.
+PENDING :  Your order id 44863092 payment of 1.00 USD is Pending.
+COMPLETE :  Your order id 44863092 payment of 1.00 USD is fulfilled.
+CANCELED :  Your order id 44863092 payment of 1.00 USD is canceled payment..
+REVERSED :  Your order id 44863092 payment of 1.00 USD is shopper cannot fullfill..
+REFUND :  Your order id 44863092 payment of 1.00 USD is refunded.
+PAYMENT_AUTHORIZED :  Your order id 44863092 payment of 1.00 USD is done.
+INVALID :  Your order id 44863092 payment of 1.00 USD is Billing/Delivery information is not valid.
+PAYMENT_RECEIVED :  Your order id 44863092 payment of 1.00 USD is received.
+PENDING_APPROVAL :  Your order id 44863092 payment of 1.00 USD is waiting for approval.
+STATUSshopper cannot fullfill.
+STATUS 2REVERSED
+MESSAGE_NIRAV Your order id 44863092 payment of 1.00 USD is shopper cannot fullfill..
+KEY DATA746691788product214201601200531011420160120053101
+KEY HASH <EPAYMENT>20160120053101|f9aa70e0bada416beb42db78d5e71824</EPAYMENT>
+\n\nLOGS START =======================================\n\n
+THRESHOLD5
+STORE OWNER917073111585
+SECRETVQfCT8O(GF@J)Ha5RXvt
+AUTHRECEIVED :  Your order id 44739315 payment of 1.00 USD is In progress.
+PENDING :  Your order id 44739315 payment of 1.00 USD is Pending.
+COMPLETE :  Your order id 44739315 payment of 1.00 USD is fulfilled.
+CANCELED :  Your order id 44739315 payment of 1.00 USD is canceled payment..
+REVERSED :  Your order id 44739315 payment of 1.00 USD is shopper cannot fullfill..
+REFUND :  Your order id 44739315 payment of 1.00 USD is refunded.
+PAYMENT_AUTHORIZED :  Your order id 44739315 payment of 1.00 USD is done.
+INVALID :  Your order id 44739315 payment of 1.00 USD is Billing/Delivery information is not valid.
+PAYMENT_RECEIVED :  Your order id 44739315 payment of 1.00 USD is received.
+PENDING_APPROVAL :  Your order id 44739315 payment of 1.00 USD is waiting for approval.
+STATUSshopper cannot fullfill.
+STATUS 2REVERSED
+MESSAGE_NIRAV Your order id 44739315 payment of 1.00 USD is shopper cannot fullfill..
+KEY DATA746691788product214201601200531021420160120053102
+KEY HASH <EPAYMENT>20160120053102|0a75e36b821c0624f2f402a0dca3280f</EPAYMENT>
+\n\nLOGS START =======================================\n\n
+THRESHOLD5
+STORE OWNER919462628919
+SECRETVQfCT8O(GF@J)Ha5RXvt
+AUTHRECEIVED :  Your order id  payment of   is In progress.
+PENDING :  Your order id  payment of   is Pending.
+COMPLETE :  Your order id  payment of   is fulfilled.
+CANCELED :  Your order id  payment of   is canceled payment..
+REVERSED :  Your order id  payment of   is shopper cannot fullfill..
+REFUND :  Your order id  payment of   is refunded.
+PAYMENT_AUTHORIZED :  Your order id  payment of   is done.
+INVALID :  Your order id  payment of   is Billing/Delivery information is not valid.
+PAYMENT_RECEIVED :  Your order id  payment of   is received.
+PENDING_APPROVAL :  Your order id  payment of   is waiting for approval.
+STATUS
+STATUS 2
+MESSAGE_NIRAV Your order id  payment of   is .
+KEY DATA0000
+KEY HASH <EPAYMENT>|2600adb3e0fb363ef0c8816237202c03</EPAYMENT>
+\n\nLOGS START =======================================\n\n
+THRESHOLD5
+STORE OWNER919462628919
+SECRETVQfCT8O(GF@J)Ha5RXvt
+AUTHRECEIVED :  Your order id  payment of   is In progress.
+PENDING :  Your order id  payment of   is Pending.
+COMPLETE :  Your order id  payment of   is fulfilled.
+CANCELED :  Your order id  payment of   is canceled payment..
+REVERSED :  Your order id  payment of   is shopper cannot fullfill..
+REFUND :  Your order id  payment of   is refunded.
+PAYMENT_AUTHORIZED :  Your order id  payment of   is done.
+INVALID :  Your order id  payment of   is Billing/Delivery information is not valid.
+PAYMENT_RECEIVED :  Your order id  payment of   is received.
+PENDING_APPROVAL :  Your order id  payment of   is waiting for approval.
+STATUS
+STATUS 2
+MESSAGE_NIRAV Your order id  payment of   is .
+KEY DATA0000
+KEY HASH <EPAYMENT>|2600adb3e0fb363ef0c8816237202c03</EPAYMENT>
+\n\nLOGS START =======================================\n\n
+THRESHOLD5
+STORE OWNER917073111585
+SECRETVQfCT8O(GF@J)Ha5RXvt
+AUTHRECEIVED :  Your order id 46346755 payment of 20.00 EUR is In progress.
+PENDING :  Your order id 46346755 payment of 20.00 EUR is Pending.
+COMPLETE :  Your order id 46346755 payment of 20.00 EUR is fulfilled.
+CANCELED :  Your order id 46346755 payment of 20.00 EUR is canceled payment..
+REVERSED :  Your order id 46346755 payment of 20.00 EUR is shopper cannot fullfill..
+REFUND :  Your order id 46346755 payment of 20.00 EUR is refunded.
+PAYMENT_AUTHORIZED :  Your order id 46346755 payment of 20.00 EUR is done.
+INVALID :  Your order id 46346755 payment of 20.00 EUR is Billing/Delivery information is not valid.
+PAYMENT_RECEIVED :  Your order id 46346755 payment of 20.00 EUR is received.
+PENDING_APPROVAL :  Your order id 46346755 payment of 20.00 EUR is waiting for approval.
+STATUSdone
+STATUS 2PAYMENT_AUTHORIZED
+MESSAGE_NIRAV Your order id 46346755 payment of 20.00 EUR is done.
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=917073111585&text=Your+order+id+46346755+payment+of+20.00+EUR+is+done.
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "917073111585",
+        "message-id": "03000000C7ECF083",
+        "status": "0",
+        "remaining-balance": "10.69788300",
+        "message-price": "0.01200000",
+        "network": "40470"
+    }]
+}
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=917073111585&text=%23%3A+49%0AAvngt+Ref.%3A+46346755%0AOT%3A+20.00%0ASTS%3A+PAYMENT_AUTHORIZED
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "917073111585",
+        "message-id": "03000000C7ECF0AE",
+        "status": "0",
+        "remaining-balance": "10.68588300",
+        "message-price": "0.01200000",
+        "network": "40470"
+    }]
+}
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=917073111585&text=%23%3A+49%0AAvngt+Ref.%3A+46346755%0AOT%3A+20.00%0ASTS%3A+PAYMENT_AUTHORIZED
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "917073111585",
+        "message-id": "02000000AF4205B7",
+        "status": "0",
+        "remaining-balance": "10.67388300",
+        "message-price": "0.01200000",
+        "network": "40470"
+    }]
+}
+KEY DATA7467471612Test Product14201601201302081420160120130208
+KEY HASH <EPAYMENT>20160120130208|1d45a86a42434dd75c3979ac674e620f</EPAYMENT>
+\n\nLOGS START =======================================\n\n
+THRESHOLD5
+STORE OWNER917073111585
+SECRETVQfCT8O(GF@J)Ha5RXvt
+AUTHRECEIVED :  Your order id 46346755 payment of -20.00 EUR is In progress.
+PENDING :  Your order id 46346755 payment of -20.00 EUR is Pending.
+COMPLETE :  Your order id 46346755 payment of -20.00 EUR is fulfilled.
+CANCELED :  Your order id 46346755 payment of -20.00 EUR is canceled payment..
+REVERSED :  Your order id 46346755 payment of -20.00 EUR is shopper cannot fullfill..
+REFUND :  Your order id 46346755 payment of -20.00 EUR is refunded.
+PAYMENT_AUTHORIZED :  Your order id 46346755 payment of -20.00 EUR is done.
+INVALID :  Your order id 46346755 payment of -20.00 EUR is Billing/Delivery information is not valid.
+PAYMENT_RECEIVED :  Your order id 46346755 payment of -20.00 EUR is received.
+PENDING_APPROVAL :  Your order id 46346755 payment of -20.00 EUR is waiting for approval.
+STATUSrefunded
+STATUS 2REFUND
+MESSAGE_NIRAV Your order id 46346755 payment of -20.00 EUR is refunded.
+KEY DATA7467471612Test Product14201601201601381420160120160138
+KEY HASH <EPAYMENT>20160120160138|0ffc1fc3049058656c57ea687e1659dc</EPAYMENT>
+\n\nLOGS START =======================================\n\n
+THRESHOLD5
+STORE OWNER917073111585
+SECRETVQfCT8O(GF@J)Ha5RXvt
+AUTHRECEIVED :  Your order id 46525165 payment of 20.00 EUR is In progress.
+PENDING :  Your order id 46525165 payment of 20.00 EUR is Pending.
+COMPLETE :  Your order id 46525165 payment of 20.00 EUR is fulfilled.
+CANCELED :  Your order id 46525165 payment of 20.00 EUR is canceled payment..
+REVERSED :  Your order id 46525165 payment of 20.00 EUR is shopper cannot fullfill..
+REFUND :  Your order id 46525165 payment of 20.00 EUR is refunded.
+PAYMENT_AUTHORIZED :  Your order id 46525165 payment of 20.00 EUR is done.
+INVALID :  Your order id 46525165 payment of 20.00 EUR is Billing/Delivery information is not valid.
+PAYMENT_RECEIVED :  Your order id 46525165 payment of 20.00 EUR is received.
+PENDING_APPROVAL :  Your order id 46525165 payment of 20.00 EUR is waiting for approval.
+STATUSdone
+STATUS 2PAYMENT_AUTHORIZED
+MESSAGE_NIRAV Your order id 46525165 payment of 20.00 EUR is done.
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=917073111585&text=Your+order+id+46525165+payment+of+20.00+EUR+is+done.
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "917073111585",
+        "message-id": "03000000C8485B2D",
+        "status": "0",
+        "remaining-balance": "10.66188300",
+        "message-price": "0.01200000",
+        "network": "40470"
+    }]
+}
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=917073111585&text=%23%3A+50%0AAvngt+Ref.%3A+46525165%0AOT%3A+20.00%0ASTS%3A+PAYMENT_AUTHORIZED
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "917073111585",
+        "message-id": "03000000C8485B33",
+        "status": "0",
+        "remaining-balance": "10.64988300",
+        "message-price": "0.01200000",
+        "network": "40470"
+    }]
+}
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=917073111585&text=%23%3A+50%0AAvngt+Ref.%3A+46525165%0AOT%3A+20.00%0ASTS%3A+PAYMENT_AUTHORIZED
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "917073111585",
+        "message-id": "02000000AF9D46FF",
+        "status": "0",
+        "remaining-balance": "10.63788300",
+        "message-price": "0.01200000",
+        "network": "40470"
+    }]
+}
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=917073111585&text=Your+order+id+46525165+payment+of+20.00+EUR+is+done.
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "917073111585",
+        "message-id": "02000000AF9D4705",
+        "status": "0",
+        "remaining-balance": "10.62588300",
+        "message-price": "0.01200000",
+        "network": "40470"
+    }]
+}
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=917073111585&text=%23%3A+50%0AAvngt+Ref.%3A+46525165%0AOT%3A+20.00%0ASTS%3A+PAYMENT_AUTHORIZED
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "917073111585",
+        "message-id": "03000000C8485B4F",
+        "status": "0",
+        "remaining-balance": "10.61388300",
+        "message-price": "0.01200000",
+        "network": "40470"
+    }]
+}
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=917073111585&text=%23%3A+50%0AAvngt+Ref.%3A+46525165%0AOT%3A+20.00%0ASTS%3A+PAYMENT_AUTHORIZED
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "917073111585",
+        "message-id": "02000000AF9D4720",
+        "status": "0",
+        "remaining-balance": "10.60188300",
+        "message-price": "0.01200000",
+        "network": "40470"
+    }]
+}
+KEY DATA7467471612Test Product14201601210503251420160121050325
+KEY HASH <EPAYMENT>20160121050325|4e38b302d4525a5a4f574e3e159e9223</EPAYMENT>
+\n\nLOGS START =======================================\n\n
+THRESHOLD5
+STORE OWNER917073111585
+SECRETVQfCT8O(GF@J)Ha5RXvt
+AUTHRECEIVED :  Your order id 46367882 payment of 20.00 EUR is In progress.
+PENDING :  Your order id 46367882 payment of 20.00 EUR is Pending.
+COMPLETE :  Your order id 46367882 payment of 20.00 EUR is fulfilled.
+CANCELED :  Your order id 46367882 payment of 20.00 EUR is canceled payment..
+REVERSED :  Your order id 46367882 payment of 20.00 EUR is shopper cannot fullfill..
+REFUND :  Your order id 46367882 payment of 20.00 EUR is refunded.
+PAYMENT_AUTHORIZED :  Your order id 46367882 payment of 20.00 EUR is done.
+INVALID :  Your order id 46367882 payment of 20.00 EUR is Billing/Delivery information is not valid.
+PAYMENT_RECEIVED :  Your order id 46367882 payment of 20.00 EUR is received.
+PENDING_APPROVAL :  Your order id 46367882 payment of 20.00 EUR is waiting for approval.
+STATUSdone
+STATUS 2PAYMENT_AUTHORIZED
+MESSAGE_NIRAV Your order id 46367882 payment of 20.00 EUR is done.
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=917073111585&text=Your+order+id+46367882+payment+of+20.00+EUR+is+done.
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "917073111585",
+        "message-id": "02000000AF9D71D2",
+        "status": "0",
+        "remaining-balance": "10.58988300",
+        "message-price": "0.01200000",
+        "network": "40470"
+    }]
+}
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=917073111585&text=%23%3A+51%0AAvngt+Ref.%3A+46367882%0AOT%3A+20.00%0ASTS%3A+PAYMENT_AUTHORIZED
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "917073111585",
+        "message-id": "03000000C84885FE",
+        "status": "0",
+        "remaining-balance": "10.57788300",
+        "message-price": "0.01200000",
+        "network": "40470"
+    }]
+}
+KEY DATA7467471612Test Product14201601210507171420160121050717
+KEY HASH <EPAYMENT>20160121050717|d4a4fd0380bfbae1cb5b1f2f9ea20116</EPAYMENT>
+\n\nLOGS START =======================================\n\n
+THRESHOLD5
+STORE OWNER917073111585
+SECRETVQfCT8O(GF@J)Ha5RXvt
+AUTHRECEIVED :  Your order id 46367882 payment of -20.00 EUR is In progress.
+PENDING :  Your order id 46367882 payment of -20.00 EUR is Pending.
+COMPLETE :  Your order id 46367882 payment of -20.00 EUR is fulfilled.
+CANCELED :  Your order id 46367882 payment of -20.00 EUR is canceled payment..
+REVERSED :  Your order id 46367882 payment of -20.00 EUR is shopper cannot fullfill..
+REFUND :  Your order id 46367882 payment of -20.00 EUR is refunded.
+PAYMENT_AUTHORIZED :  Your order id 46367882 payment of -20.00 EUR is done.
+INVALID :  Your order id 46367882 payment of -20.00 EUR is Billing/Delivery information is not valid.
+PAYMENT_RECEIVED :  Your order id 46367882 payment of -20.00 EUR is received.
+PENDING_APPROVAL :  Your order id 46367882 payment of -20.00 EUR is waiting for approval.
+STATUSrefunded
+STATUS 2REFUND
+MESSAGE_NIRAV Your order id 46367882 payment of -20.00 EUR is refunded.
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=917073111585
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "status": "2",
+        "error-text": "Missing Message Text"
+    }]
+}
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=917073111585&text=Your+order+id+46367882+payment+of+-20.00+EUR+is+refunded.
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "917073111585",
+        "message-id": "02000000AFA3ADBB",
+        "status": "0",
+        "remaining-balance": "10.51868300",
+        "message-price": "0.01200000",
+        "network": "40470"
+    }]
+}
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=917073111585
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "status": "2",
+        "error-text": "Missing Message Text"
+    }]
+}
+KEY DATA7467471612Test Product14201601210800521420160121080052
+KEY HASH <EPAYMENT>20160121080052|eb21c955715308ae74ea75b36aee485f</EPAYMENT>
+\n\nLOGS START =======================================\n\n
+THRESHOLD5
+STORE OWNER918239285447
+SECRETVQfCT8O(GF@J)Ha5RXvt
+AUTHRECEIVED :  Your order id  payment of   is In progress.
+PENDING :  Your order id  payment of   is Pending.
+COMPLETE :  Your order id  payment of   is fulfilled.
+CANCELED :  Your order id  payment of   is canceled payment..
+REVERSED :  Your order id  payment of   is shopper cannot fullfill..
+REFUND :  Your order id  payment of   is refunded.
+PAYMENT_AUTHORIZED :  Your order id  payment of   is done.
+INVALID :  Your order id  payment of   is Billing/Delivery information is not valid.
+PAYMENT_RECEIVED :  Your order id  payment of   is received.
+PENDING_APPROVAL :  Your order id  payment of   is waiting for approval.
+STATUS
+STATUS 2
+MESSAGE_NIRAV Your order id  payment of   is .
+KEY DATA0000
+KEY HASH <EPAYMENT>|2600adb3e0fb363ef0c8816237202c03</EPAYMENT>
+\n\nLOGS START =======================================\n\n
+THRESHOLD5
+STORE OWNER918239285447
+SECRETVQfCT8O(GF@J)Ha5RXvt
+AUTHRECEIVED :  Your order id 46494148 payment of 100.00 EUR is In progress.
+PENDING :  Your order id 46494148 payment of 100.00 EUR is Pending.
+COMPLETE :  Your order id 46494148 payment of 100.00 EUR is fulfilled.
+CANCELED :  Your order id 46494148 payment of 100.00 EUR is canceled payment..
+REVERSED :  Your order id 46494148 payment of 100.00 EUR is shopper cannot fullfill..
+REFUND :  Your order id 46494148 payment of 100.00 EUR is refunded.
+PAYMENT_AUTHORIZED :  Your order id 46494148 payment of 100.00 EUR is done.
+INVALID :  Your order id 46494148 payment of 100.00 EUR is Billing/Delivery information is not valid.
+PAYMENT_RECEIVED :  Your order id 46494148 payment of 100.00 EUR is received.
+PENDING_APPROVAL :  Your order id 46494148 payment of 100.00 EUR is waiting for approval.
+STATUSdone
+STATUS 2PAYMENT_AUTHORIZED
+MESSAGE_NIRAV Your order id 46494148 payment of 100.00 EUR is done.
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=8239285447&text=Your+order+id+46494148+payment+of+100.00+EUR+is+done.
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "8239285447",
+        "message-id": "02000000B1F5CA19",
+        "status": "0",
+        "remaining-balance": "10.43628300",
+        "message-price": "0.04000000",
+        "network": "KR-FIXED"
+    }]
+}
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=918239285447&text=%23%3A+52%0AAvngt+Ref.%3A+46494148%0AOT%3A+100.00%0ASTS%3A+PAYMENT_AUTHORIZED
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "918239285447",
+        "message-id": "02000000B1F5CA36",
+        "status": "0",
+        "remaining-balance": "10.42828300",
+        "message-price": "0.00800000",
+        "network": "40460"
+    }]
+}
+KEY DATA7467471612Test Product14201601250536041420160125053604
+KEY HASH <EPAYMENT>20160125053604|d3b2c5ca86a1f3a21d70853bbd57e596</EPAYMENT>
+\n\nLOGS START =======================================\n\n
+THRESHOLD10
+STORE OWNER918239285447
+SECRETVQfCT8O(GF@J)Ha5RXvt
+AUTHRECEIVED :  Your order id  payment of   is In progress.
+PENDING :  Your order id  payment of   is Pending.
+COMPLETE :  Your order id  payment of   is fulfilled.
+CANCELED :  Your order id  payment of   is canceled payment..
+REVERSED :  Your order id  payment of   is shopper cannot fullfill..
+REFUND :  Your order id  payment of   is refunded.
+PAYMENT_AUTHORIZED :  Your order id  payment of   is done.
+INVALID :  Your order id  payment of   is Billing/Delivery information is not valid.
+PAYMENT_RECEIVED :  Your order id  payment of   is received.
+PENDING_APPROVAL :  Your order id  payment of   is waiting for approval.
+STATUS
+STATUS 2
+MESSAGE_NIRAV Your order id  payment of   is .
+KEY DATA0000
+KEY HASH <EPAYMENT>|2600adb3e0fb363ef0c8816237202c03</EPAYMENT>
+\n\nLOGS START =======================================\n\n
+THRESHOLD10
+STORE OWNER918239285447
+SECRETVQfCT8O(GF@J)Ha5RXvt
+AUTHRECEIVED :  Your order id 46313203 payment of 0.92 EUR is In progress.
+PENDING :  Your order id 46313203 payment of 0.92 EUR is Pending.
+COMPLETE :  Your order id 46313203 payment of 0.92 EUR is fulfilled.
+CANCELED :  Your order id 46313203 payment of 0.92 EUR is canceled payment..
+REVERSED :  Your order id 46313203 payment of 0.92 EUR is shopper cannot fullfill..
+REFUND :  Your order id 46313203 payment of 0.92 EUR is refunded.
+PAYMENT_AUTHORIZED :  Your order id 46313203 payment of 0.92 EUR is done.
+INVALID :  Your order id 46313203 payment of 0.92 EUR is Billing/Delivery information is not valid.
+PAYMENT_RECEIVED :  Your order id 46313203 payment of 0.92 EUR is received.
+PENDING_APPROVAL :  Your order id 46313203 payment of 0.92 EUR is waiting for approval.
+STATUSdone
+STATUS 2PAYMENT_AUTHORIZED
+MESSAGE_NIRAV Your order id 46313203 payment of 0.92 EUR is done.
+KEY DATA746691788product214201601270551131420160127055113
+KEY HASH <EPAYMENT>20160127055113|18fd841d9ea67e82c4e5927dcdbcf279</EPAYMENT>
+\n\nLOGS START =======================================\n\n
+THRESHOLD10
+STORE OWNER918239285447
+SECRETVQfCT8O(GF@J)Ha5RXvt
+AUTHRECEIVED :  Your order id 46338401 payment of 20.00 EUR is In progress.
+PENDING :  Your order id 46338401 payment of 20.00 EUR is Pending.
+COMPLETE :  Your order id 46338401 payment of 20.00 EUR is fulfilled.
+CANCELED :  Your order id 46338401 payment of 20.00 EUR is canceled payment..
+REVERSED :  Your order id 46338401 payment of 20.00 EUR is shopper cannot fullfill..
+REFUND :  Your order id 46338401 payment of 20.00 EUR is refunded.
+PAYMENT_AUTHORIZED :  Your order id 46338401 payment of 20.00 EUR is done.
+INVALID :  Your order id 46338401 payment of 20.00 EUR is Billing/Delivery information is not valid.
+PAYMENT_RECEIVED :  Your order id 46338401 payment of 20.00 EUR is received.
+PENDING_APPROVAL :  Your order id 46338401 payment of 20.00 EUR is waiting for approval.
+STATUSdone
+STATUS 2PAYMENT_AUTHORIZED
+MESSAGE_NIRAV Your order id 46338401 payment of 20.00 EUR is done.
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=8239285447&text=Your+order+id+46338401+payment+of+20.00+EUR+is+done.
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "8239285447",
+        "message-id": "03000000CBD65850",
+        "status": "0",
+        "remaining-balance": "10.38828300",
+        "message-price": "0.04000000",
+        "network": "KR-FIXED"
+    }]
+}
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=918239285447&text=%23%3A+54%0AAvngt+Ref.%3A+46338401%0AOT%3A+20.00%0ASTS%3A+PAYMENT_AUTHORIZED
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "918239285447",
+        "message-id": "02000000B32BDD1F",
+        "status": "0",
+        "remaining-balance": "10.38028300",
+        "message-price": "0.00800000",
+        "network": "40460"
+    }]
+}
+KEY DATA7467471612Test Product14201601270553161420160127055316
+KEY HASH <EPAYMENT>20160127055316|693b9c07fc3b1411590fff476015e99b</EPAYMENT>
+\n\nLOGS START =======================================\n\n
+THRESHOLD10
+STORE OWNER918239285447
+SECRETVQfCT8O(GF@J)Ha5RXvt
+AUTHRECEIVED :  Your order id 46282027 payment of 1.00 USD is In progress.
+PENDING :  Your order id 46282027 payment of 1.00 USD is Pending.
+COMPLETE :  Your order id 46282027 payment of 1.00 USD is fulfilled.
+CANCELED :  Your order id 46282027 payment of 1.00 USD is canceled payment..
+REVERSED :  Your order id 46282027 payment of 1.00 USD is shopper cannot fullfill..
+REFUND :  Your order id 46282027 payment of 1.00 USD is refunded.
+PAYMENT_AUTHORIZED :  Your order id 46282027 payment of 1.00 USD is done.
+INVALID :  Your order id 46282027 payment of 1.00 USD is Billing/Delivery information is not valid.
+PAYMENT_RECEIVED :  Your order id 46282027 payment of 1.00 USD is received.
+PENDING_APPROVAL :  Your order id 46282027 payment of 1.00 USD is waiting for approval.
+STATUSdone
+STATUS 2PAYMENT_AUTHORIZED
+MESSAGE_NIRAV Your order id 46282027 payment of 1.00 USD is done.
+KEY DATA746691788product214201601270555161420160127055516
+KEY HASH <EPAYMENT>20160127055516|3b774e3dd6619ac2e532e247279279ee</EPAYMENT>
+\n\nLOGS START =======================================\n\n
+THRESHOLD10
+STORE OWNER918239285447
+SECRETVQfCT8O(GF@J)Ha5RXvt
+AUTHRECEIVED :  Your order id  payment of   is In progress.
+PENDING :  Your order id  payment of   is Pending.
+COMPLETE :  Your order id  payment of   is fulfilled.
+CANCELED :  Your order id  payment of   is canceled payment..
+REVERSED :  Your order id  payment of   is shopper cannot fullfill..
+REFUND :  Your order id  payment of   is refunded.
+PAYMENT_AUTHORIZED :  Your order id  payment of   is done.
+INVALID :  Your order id  payment of   is Billing/Delivery information is not valid.
+PAYMENT_RECEIVED :  Your order id  payment of   is received.
+PENDING_APPROVAL :  Your order id  payment of   is waiting for approval.
+STATUS
+STATUS 2
+MESSAGE_NIRAV Your order id  payment of   is .
+KEY DATA0000
+KEY HASH <EPAYMENT>|2600adb3e0fb363ef0c8816237202c03</EPAYMENT>
+\n\nLOGS START =======================================\n\n
+THRESHOLD10
+STORE OWNER918239285447
+SECRETVQfCT8O(GF@J)Ha5RXvt
+AUTHRECEIVED :  Your order id 46760839 payment of 20.00 EUR is In progress.
+PENDING :  Your order id 46760839 payment of 20.00 EUR is Pending.
+COMPLETE :  Your order id 46760839 payment of 20.00 EUR is fulfilled.
+CANCELED :  Your order id 46760839 payment of 20.00 EUR is canceled payment..
+REVERSED :  Your order id 46760839 payment of 20.00 EUR is shopper cannot fullfill..
+REFUND :  Your order id 46760839 payment of 20.00 EUR is refunded.
+PAYMENT_AUTHORIZED :  Your order id 46760839 payment of 20.00 EUR is done.
+INVALID :  Your order id 46760839 payment of 20.00 EUR is Billing/Delivery information is not valid.
+PAYMENT_RECEIVED :  Your order id 46760839 payment of 20.00 EUR is received.
+PENDING_APPROVAL :  Your order id 46760839 payment of 20.00 EUR is waiting for approval.
+STATUSdone
+STATUS 2PAYMENT_AUTHORIZED
+MESSAGE_NIRAV Your order id 46760839 payment of 20.00 EUR is done.
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=917073111585&text=Your+order+id+46760839+payment+of+20.00+EUR+is+done.
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "917073111585",
+        "message-id": "03000000D3A6FF74",
+        "status": "0",
+        "remaining-balance": "10.03508300",
+        "message-price": "0.01200000",
+        "network": "40470"
+    }]
+}
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=918239285447&text=%23%3A+56%0AAvngt+Ref.%3A+46760839%0AOrder+Total%3A+20.00%0AStatus%3A+PAYMENT_AUTHORIZED
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "918239285447",
+        "message-id": "03000000D3A6FF7E",
+        "status": "0",
+        "remaining-balance": "10.02708300",
+        "message-price": "0.00800000",
+        "network": "40460"
+    }]
+}
+KEY DATA7467471612Test Product14201602090513191420160209051319
+KEY HASH <EPAYMENT>20160209051319|8275abea7a5bc2b198fc0bb49d56d388</EPAYMENT>
+\n\nLOGS START =======================================\n\n
+THRESHOLD10
+STORE OWNER918239285447
+SECRETVQfCT8O(GF@J)Ha5RXvt
+AUTHRECEIVED :  Your order id 46958169 payment of 20.00 USD is In progress.
+PENDING :  Your order id 46958169 payment of 20.00 USD is Pending.
+COMPLETE :  Your order id 46958169 payment of 20.00 USD is fulfilled.
+CANCELED :  Your order id 46958169 payment of 20.00 USD is canceled payment..
+REVERSED :  Your order id 46958169 payment of 20.00 USD is shopper cannot fullfill..
+REFUND :  Your order id 46958169 payment of 20.00 USD is refunded.
+PAYMENT_AUTHORIZED :  Your order id 46958169 payment of 20.00 USD is done.
+INVALID :  Your order id 46958169 payment of 20.00 USD is Billing/Delivery information is not valid.
+PAYMENT_RECEIVED :  Your order id 46958169 payment of 20.00 USD is received.
+PENDING_APPROVAL :  Your order id 46958169 payment of 20.00 USD is waiting for approval.
+STATUSdone
+STATUS 2PAYMENT_AUTHORIZED
+MESSAGE_NIRAV Your order id 46958169 payment of 20.00 USD is done.
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=8239285447&text=Your+order+id+46958169+payment+of+20.00+USD+is+done.
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "8239285447",
+        "message-id": "03000000D3A77724",
+        "status": "0",
+        "remaining-balance": "9.98708300",
+        "message-price": "0.04000000",
+        "network": "KR-FIXED"
+    }]
+}
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=918239285447&text=%23%3A+57%0AAvngt+Ref.%3A+46958169%0AOrder+Total%3A+20.00%0AStatus%3A+PAYMENT_AUTHORIZED
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "918239285447",
+        "message-id": "02000000BAD66052",
+        "status": "0",
+        "remaining-balance": "9.97908300",
+        "message-price": "0.00800000",
+        "network": "40460"
+    }]
+}
+KEY DATA746691788product214201602090528261420160209052826
+KEY HASH <EPAYMENT>20160209052826|32d7589b2523189f33bf595c29659043</EPAYMENT>
+\n\nLOGS START =======================================\n\n
+THRESHOLD10
+STORE OWNER918239285447
+SECRETVQfCT8O(GF@J)Ha5RXvt
+AUTHRECEIVED :  Your order id 46659462 payment of 22.34 USD is In progress.
+PENDING :  Your order id 46659462 payment of 22.34 USD is Pending.
+COMPLETE :  Your order id 46659462 payment of 22.34 USD is fulfilled.
+CANCELED :  Your order id 46659462 payment of 22.34 USD is canceled payment..
+REVERSED :  Your order id 46659462 payment of 22.34 USD is shopper cannot fullfill..
+REFUND :  Your order id 46659462 payment of 22.34 USD is refunded.
+PAYMENT_AUTHORIZED :  Your order id 46659462 payment of 22.34 USD is done.
+INVALID :  Your order id 46659462 payment of 22.34 USD is Billing/Delivery information is not valid.
+PAYMENT_RECEIVED :  Your order id 46659462 payment of 22.34 USD is received.
+PENDING_APPROVAL :  Your order id 46659462 payment of 22.34 USD is waiting for approval.
+STATUSdone
+STATUS 2PAYMENT_AUTHORIZED
+MESSAGE_NIRAV Your order id 46659462 payment of 22.34 USD is done.
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=8239285447&text=Your+order+id+46659462+payment+of+22.34+USD+is+done.
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "8239285447",
+        "message-id": "02000000BAD69CF1",
+        "status": "0",
+        "remaining-balance": "9.93908300",
+        "message-price": "0.04000000",
+        "network": "KR-FIXED"
+    }]
+}
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=918239285447&text=%23%3A+58%0AAvngt+Ref.%3A+46659462%0AOrder+Total%3A+22.34+USD%0AStatus%3A+PAYMENT_AUTHORIZED
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "918239285447",
+        "message-id": "03000000D3A7B546",
+        "status": "0",
+        "remaining-balance": "9.93108300",
+        "message-price": "0.00800000",
+        "network": "40460"
+    }]
+}
+KEY DATA7467471612Test Product14201602090538511420160209053851
+KEY HASH <EPAYMENT>20160209053851|9e7d0415d6b1518a49171e92a9d2e2b4</EPAYMENT>
+\n\nLOGS START =======================================\n\n
+THRESHOLD10
+STORE OWNER918239285447
+SECRETVQfCT8O(GF@J)Ha5RXvt
+AUTHRECEIVED :  Your order id 46846257 payment of 20.00 EUR is In progress.
+PENDING :  Your order id 46846257 payment of 20.00 EUR is Pending.
+COMPLETE :  Your order id 46846257 payment of 20.00 EUR is fulfilled.
+CANCELED :  Your order id 46846257 payment of 20.00 EUR is canceled payment..
+REVERSED :  Your order id 46846257 payment of 20.00 EUR is shopper cannot fullfill..
+REFUND :  Your order id 46846257 payment of 20.00 EUR is refunded.
+PAYMENT_AUTHORIZED :  Your order id 46846257 payment of 20.00 EUR is done.
+INVALID :  Your order id 46846257 payment of 20.00 EUR is Billing/Delivery information is not valid.
+PAYMENT_RECEIVED :  Your order id 46846257 payment of 20.00 EUR is received.
+PENDING_APPROVAL :  Your order id 46846257 payment of 20.00 EUR is waiting for approval.
+STATUSdone
+STATUS 2PAYMENT_AUTHORIZED
+MESSAGE_NIRAV Your order id 46846257 payment of 20.00 EUR is done.
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=918239285447&text=Your+order+id+46846257+payment+of+20.00+EUR+is+done.
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "918239285447",
+        "message-id": "03000000D3C5985E",
+        "status": "0",
+        "remaining-balance": "9.92308300",
+        "message-price": "0.00800000",
+        "network": "40460"
+    }]
+}
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=918239285447&text=%23%3A+59%0AAvngt+Ref.%3A+46846257%0AOrder+Total%3A+20.00+EUR%0AStatus%3A+PAYMENT_AUTHORIZED
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "918239285447",
+        "message-id": "02000000BAF3DB55",
+        "status": "0",
+        "remaining-balance": "9.91508300",
+        "message-price": "0.00800000",
+        "network": "40460"
+    }]
+}
+KEY DATA7467471612Test Product14201602091024021420160209102402
+KEY HASH <EPAYMENT>20160209102402|dd04ed197dc40c54af8b96ed4ece73f8</EPAYMENT>
+\n\nLOGS START =======================================\n\n
+THRESHOLD10
+STORE OWNER918239285447
+SECRETVQfCT8O(GF@J)Ha5RXvt
+AUTHRECEIVED :  Your order id 46858636 payment of 20.00 EUR is In progress.
+PENDING :  Your order id 46858636 payment of 20.00 EUR is Pending.
+COMPLETE :  Your order id 46858636 payment of 20.00 EUR is fulfilled.
+CANCELED :  Your order id 46858636 payment of 20.00 EUR is canceled payment..
+REVERSED :  Your order id 46858636 payment of 20.00 EUR is shopper cannot fullfill..
+REFUND :  Your order id 46858636 payment of 20.00 EUR is refunded.
+PAYMENT_AUTHORIZED :  Your order id 46858636 payment of 20.00 EUR is done.
+INVALID :  Your order id 46858636 payment of 20.00 EUR is Billing/Delivery information is not valid.
+PAYMENT_RECEIVED :  Your order id 46858636 payment of 20.00 EUR is received.
+PENDING_APPROVAL :  Your order id 46858636 payment of 20.00 EUR is waiting for approval.
+STATUSdone
+STATUS 2PAYMENT_AUTHORIZED
+MESSAGE_NIRAV Your order id 46858636 payment of 20.00 EUR is done.
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=918239285447&text=Your+order+id+46858636+payment+of+20.00+EUR+is+done.
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "918239285447",
+        "message-id": "02000000BAF60BFA",
+        "status": "0",
+        "remaining-balance": "9.90708300",
+        "message-price": "0.00800000",
+        "network": "40460"
+    }]
+}
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=918239285447&text=%23%3A+60%0AAvngt+Ref.%3A+46858636%0AOrder+Total%3A+20.00+EUR%0AStatus%3A+PAYMENT_AUTHORIZED
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "918239285447",
+        "message-id": "03000000D3C7CF41",
+        "status": "0",
+        "remaining-balance": "9.89908300",
+        "message-price": "0.00800000",
+        "network": "40460"
+    }]
+}
+KEY DATA7467471612Test Product14201602091035581420160209103558
+KEY HASH <EPAYMENT>20160209103558|434b2c2bd13a7eaadae2a1d4df1253ae</EPAYMENT>
+\n\nLOGS START =======================================\n\n
+THRESHOLD10
+STORE OWNER918239285447
+SECRETVQfCT8O(GF@J)Ha5RXvt
+AUTHRECEIVED :  Your order id 47110928 payment of 20.00 EUR is In progress.
+PENDING :  Your order id 47110928 payment of 20.00 EUR is Pending.
+COMPLETE :  Your order id 47110928 payment of 20.00 EUR is fulfilled.
+CANCELED :  Your order id 47110928 payment of 20.00 EUR is canceled payment..
+REVERSED :  Your order id 47110928 payment of 20.00 EUR is shopper cannot fullfill..
+REFUND :  Your order id 47110928 payment of 20.00 EUR is refunded.
+PAYMENT_AUTHORIZED :  Your order id 47110928 payment of 20.00 EUR is done.
+INVALID :  Your order id 47110928 payment of 20.00 EUR is Billing/Delivery information is not valid.
+PAYMENT_RECEIVED :  Your order id 47110928 payment of 20.00 EUR is received.
+PENDING_APPROVAL :  Your order id 47110928 payment of 20.00 EUR is waiting for approval.
+STATUSdone
+STATUS 2PAYMENT_AUTHORIZED
+MESSAGE_NIRAV Your order id 47110928 payment of 20.00 EUR is done.
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=917073111585&text=Your+order+id+47110928+payment+of+20.00+EUR+is+done.
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "917073111585",
+        "message-id": "02000000BAF7E02C",
+        "status": "0",
+        "remaining-balance": "9.88708300",
+        "message-price": "0.01200000",
+        "network": "40470"
+    }]
+}
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=918239285447&text=%23%3A+61%0AAvngt+Ref.%3A+47110928%0AOrder+Total%3A+20.00+EUR%0AStatus%3A+PAYMENT_AUTHORIZED
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "918239285447",
+        "message-id": "03000000D3C9A7AB",
+        "status": "0",
+        "remaining-balance": "9.87908300",
+        "message-price": "0.00800000",
+        "network": "40460"
+    }]
+}
+KEY DATA7467471612Test Product14201602091045521420160209104552
+KEY HASH <EPAYMENT>20160209104552|4430f1eff0d66a976a91e4568a394d4c</EPAYMENT>
+\n\nLOGS START =======================================\n\n
+THRESHOLD10
+STORE OWNER918239285447
+SECRETVQfCT8O(GF@J)Ha5RXvt
+AUTHRECEIVED :  Your order id 46923181 payment of 5.00 USD is In progress.
+PENDING :  Your order id 46923181 payment of 5.00 USD is Pending.
+COMPLETE :  Your order id 46923181 payment of 5.00 USD is fulfilled.
+CANCELED :  Your order id 46923181 payment of 5.00 USD is canceled payment..
+REVERSED :  Your order id 46923181 payment of 5.00 USD is shopper cannot fullfill..
+REFUND :  Your order id 46923181 payment of 5.00 USD is refunded.
+PAYMENT_AUTHORIZED :  Your order id 46923181 payment of 5.00 USD is done.
+INVALID :  Your order id 46923181 payment of 5.00 USD is Billing/Delivery information is not valid.
+PAYMENT_RECEIVED :  Your order id 46923181 payment of 5.00 USD is received.
+PENDING_APPROVAL :  Your order id 46923181 payment of 5.00 USD is waiting for approval.
+STATUSdone
+STATUS 2PAYMENT_AUTHORIZED
+MESSAGE_NIRAV Your order id 46923181 payment of 5.00 USD is done.
+KEY DATA7467681514Test Product 214201602091100211420160209110021
+KEY HASH <EPAYMENT>20160209110021|fdc631a5ed65d4ba5417b070c6f43eeb</EPAYMENT>
+\n\nLOGS START =======================================\n\n
+THRESHOLD4
+STORE OWNER918239285447
+SECRETVQfCT8O(GF@J)Ha5RXvt
+AUTHRECEIVED :  Your order id  payment of   is In progress.
+PENDING :  Your order id  payment of   is Pending.
+COMPLETE :  Your order id  payment of   is fulfilled.
+CANCELED :  Your order id  payment of   is canceled payment..
+REVERSED :  Your order id  payment of   is shopper cannot fullfill..
+REFUND :  Your order id  payment of   is refunded.
+PAYMENT_AUTHORIZED :  Your order id  payment of   is done.
+INVALID :  Your order id  payment of   is Billing/Delivery information is not valid.
+PAYMENT_RECEIVED :  Your order id  payment of   is received.
+PENDING_APPROVAL :  Your order id  payment of   is waiting for approval.
+STATUS
+STATUS 2
+MESSAGE_NIRAV Your order id  payment of   is .
+KEY DATA0000
+KEY HASH <EPAYMENT>|2600adb3e0fb363ef0c8816237202c03</EPAYMENT>
+\n\nLOGS START =======================================\n\n
+THRESHOLD5
+STORE OWNER918239285447
+SECRETVQfCT8O(GF@J)Ha5RXvt
+AUTHRECEIVED :  Your order id  payment of   is In progress.
+PENDING :  Your order id  payment of   is Pending.
+COMPLETE :  Your order id  payment of   is fulfilled.
+CANCELED :  Your order id  payment of   is canceled payment..
+REVERSED :  Your order id  payment of   is shopper cannot fullfill..
+REFUND :  Your order id  payment of   is refunded.
+PAYMENT_AUTHORIZED :  Your order id  payment of   is done.
+INVALID :  Your order id  payment of   is Billing/Delivery information is not valid.
+PAYMENT_RECEIVED :  Your order id  payment of   is received.
+PENDING_APPROVAL :  Your order id  payment of   is waiting for approval.
+STATUS
+STATUS 2
+MESSAGE_NIRAV Your order id  payment of   is .
+KEY DATA0000
+KEY HASH <EPAYMENT>|2600adb3e0fb363ef0c8816237202c03</EPAYMENT>
+\n\nLOGS START =======================================\n\n
+THRESHOLD5
+STORE OWNER918239285447
+SECRETVQfCT8O(GF@J)Ha5RXvt
+AUTHRECEIVED :  Your order id 46969388 payment of 5.00 USD is In progress.
+PENDING :  Your order id 46969388 payment of 5.00 USD is Pending.
+COMPLETE :  Your order id 46969388 payment of 5.00 USD is fulfilled.
+CANCELED :  Your order id 46969388 payment of 5.00 USD is canceled payment..
+REVERSED :  Your order id 46969388 payment of 5.00 USD is shopper cannot fullfill..
+REFUND :  Your order id 46969388 payment of 5.00 USD is refunded.
+PAYMENT_AUTHORIZED :  Your order id 46969388 payment of 5.00 USD is done.
+INVALID :  Your order id 46969388 payment of 5.00 USD is Billing/Delivery information is not valid.
+PAYMENT_RECEIVED :  Your order id 46969388 payment of 5.00 USD is received.
+PENDING_APPROVAL :  Your order id 46969388 payment of 5.00 USD is waiting for approval.
+STATUSdone
+STATUS 2PAYMENT_AUTHORIZED
+MESSAGE_NIRAV Your order id 46969388 payment of 5.00 USD is done.
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=8239285447&text=Your+order+id+46969388+payment+of+5.00+USD+is+done.
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "8239285447",
+        "message-id": "02000000BAFCD576",
+        "status": "0",
+        "remaining-balance": "9.83908300",
+        "message-price": "0.04000000",
+        "network": "KR-FIXED"
+    }]
+}
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=918239285447&text=%23%3A+63%0AAvngt+Ref.%3A+46969388%0AOrder+Total%3A+5.00+USD%0AStatus%3A+PAYMENT_AUTHORIZED
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "918239285447",
+        "message-id": "02000000BAFCD59B",
+        "status": "0",
+        "remaining-balance": "9.83108300",
+        "message-price": "0.00800000",
+        "network": "40460"
+    }]
+}
+KEY DATA7467681514Test Product 214201602091113011420160209111301
+KEY HASH <EPAYMENT>20160209111301|bd0ac6a6e86d20eaeaaaea01eb04fb36</EPAYMENT>
+\n\nLOGS START =======================================\n\n
+THRESHOLD10
+STORE OWNER917073111585
+SECRETVQfCT8O(GF@J)Ha5RXvt
+AUTHRECEIVED :  Your order id  payment of   is In progress.
+PENDING :  Your order id  payment of   is Pending.
+COMPLETE :  Your order id  payment of   is fulfilled.
+CANCELED :  Your order id  payment of   is canceled payment..
+REVERSED :  Your order id  payment of   is shopper cannot fullfill..
+REFUND :  Your order id  payment of   is refunded.
+PAYMENT_AUTHORIZED :  Your order id  payment of   is done.
+INVALID :  Your order id  payment of   is Billing/Delivery information is not valid.
+PAYMENT_RECEIVED :  Your order id  payment of   is received.
+PENDING_APPROVAL :  Your order id  payment of   is waiting for approval.
+STATUS
+STATUS 2
+MESSAGE_NIRAV Your order id  payment of   is .
+KEY DATA0000
+KEY HASH <EPAYMENT>|2600adb3e0fb363ef0c8816237202c03</EPAYMENT>
+\n\nLOGS START =======================================\n\n
+THRESHOLD10
+STORE OWNER917073111585
+SECRETVQfCT8O(GF@J)Ha5RXvt
+AUTHRECEIVED :  Your order id 46972981 payment of 10.00 EUR is In progress.
+PENDING :  Your order id 46972981 payment of 10.00 EUR is Pending.
+COMPLETE :  Your order id 46972981 payment of 10.00 EUR is fulfilled.
+CANCELED :  Your order id 46972981 payment of 10.00 EUR is canceled payment..
+REVERSED :  Your order id 46972981 payment of 10.00 EUR is shopper cannot fullfill..
+REFUND :  Your order id 46972981 payment of 10.00 EUR is refunded.
+PAYMENT_AUTHORIZED :  Your order id 46972981 payment of 10.00 EUR is done.
+INVALID :  Your order id 46972981 payment of 10.00 EUR is Billing/Delivery information is not valid.
+PAYMENT_RECEIVED :  Your order id 46972981 payment of 10.00 EUR is received.
+PENDING_APPROVAL :  Your order id 46972981 payment of 10.00 EUR is waiting for approval.
+STATUSdone
+STATUS 2PAYMENT_AUTHORIZED
+MESSAGE_NIRAV Your order id 46972981 payment of 10.00 EUR is done.
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=917073111585&text=Your+order+id+46972981+payment+of+10.00+EUR+is+done.
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "917073111585",
+        "message-id": "03000000D3D1C9D7",
+        "status": "0",
+        "remaining-balance": "9.81908300",
+        "message-price": "0.01200000",
+        "network": "40470"
+    }]
+}
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=917073111585&text=%23%3A+64%0AAvngt+Ref.%3A+46972981%0AOrder+Total%3A+10.00+EUR%0AStatus%3A+PAYMENT_AUTHORIZED
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "917073111585",
+        "message-id": "02000000BAFFC961",
+        "status": "0",
+        "remaining-balance": "9.80708300",
+        "message-price": "0.01200000",
+        "network": "40470"
+    }]
+}
+KEY DATA7467471612Test Product14201602091129121420160209112912
+KEY HASH <EPAYMENT>20160209112912|8b399743db14d538a057ecfb2967d4ba</EPAYMENT>
+\n\nLOGS START =======================================\n\n
+THRESHOLD10
+STORE OWNER917073111585
+SECRETVQfCT8O(GF@J)Ha5RXvt
+AUTHRECEIVED :  Your order id 46760839 payment of -20.00 EUR is In progress.
+PENDING :  Your order id 46760839 payment of -20.00 EUR is Pending.
+COMPLETE :  Your order id 46760839 payment of -20.00 EUR is fulfilled.
+CANCELED :  Your order id 46760839 payment of -20.00 EUR is canceled payment..
+REVERSED :  Your order id 46760839 payment of -20.00 EUR is shopper cannot fullfill..
+REFUND :  Your order id 46760839 payment of -20.00 EUR is refunded.
+PAYMENT_AUTHORIZED :  Your order id 46760839 payment of -20.00 EUR is done.
+INVALID :  Your order id 46760839 payment of -20.00 EUR is Billing/Delivery information is not valid.
+PAYMENT_RECEIVED :  Your order id 46760839 payment of -20.00 EUR is received.
+PENDING_APPROVAL :  Your order id 46760839 payment of -20.00 EUR is waiting for approval.
+STATUSrefunded
+STATUS 2REFUND
+MESSAGE_NIRAV Your order id 46760839 payment of -20.00 EUR is refunded.
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=917073111585
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "status": "2",
+        "error-text": "Missing Message Text"
+    }]
+}
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=917073111585&text=Your+order+id+46760839+payment+of+-20.00+EUR+is+refunded.
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "917073111585",
+        "message-id": "03000000D3EECEE0",
+        "status": "0",
+        "remaining-balance": "9.79508300",
+        "message-price": "0.01200000",
+        "network": "40470"
+    }]
+}
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=917073111585
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "status": "2",
+        "error-text": "Missing Message Text"
+    }]
+}
+KEY DATA7467471612Test Product14201602091400591420160209140059
+KEY HASH <EPAYMENT>20160209140059|e2734aeb98fdeb1e785177b32eb00d6d</EPAYMENT>
+\n\nLOGS START =======================================\n\n
+THRESHOLD10
+STORE OWNER917073111585
+SECRETVQfCT8O(GF@J)Ha5RXvt
+AUTHRECEIVED :  Your order id 46958169 payment of 20.00 USD is In progress.
+PENDING :  Your order id 46958169 payment of 20.00 USD is Pending.
+COMPLETE :  Your order id 46958169 payment of 20.00 USD is fulfilled.
+CANCELED :  Your order id 46958169 payment of 20.00 USD is canceled payment..
+REVERSED :  Your order id 46958169 payment of 20.00 USD is shopper cannot fullfill..
+REFUND :  Your order id 46958169 payment of 20.00 USD is refunded.
+PAYMENT_AUTHORIZED :  Your order id 46958169 payment of 20.00 USD is done.
+INVALID :  Your order id 46958169 payment of 20.00 USD is Billing/Delivery information is not valid.
+PAYMENT_RECEIVED :  Your order id 46958169 payment of 20.00 USD is received.
+PENDING_APPROVAL :  Your order id 46958169 payment of 20.00 USD is waiting for approval.
+STATUSshopper cannot fullfill.
+STATUS 2REVERSED
+MESSAGE_NIRAV Your order id 46958169 payment of 20.00 USD is shopper cannot fullfill..
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=8239285447&text=Your+order+id+46958169+payment+of+20.00+USD+is+shopper+cannot+fullfill..
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "8239285447",
+        "message-id": "02000000BB1C1EA5",
+        "status": "0",
+        "remaining-balance": "9.75508300",
+        "message-price": "0.04000000",
+        "network": "KR-FIXED"
+    }]
+}
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=917073111585&text=%23%3A+57%0AAvngt+Ref.%3A+46958169%0AOrder+Total%3A+20.00+USD%0AStatus%3A+REVERSED
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "917073111585",
+        "message-id": "03000000D3EED036",
+        "status": "0",
+        "remaining-balance": "9.74308300",
+        "message-price": "0.01200000",
+        "network": "40470"
+    }]
+}
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=917073111585&text=%23%3A+57%0AAvngt+Ref.%3A+46958169%0AOrder+Total%3A+20.00+USD%0AStatus%3A+REVERSED
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "917073111585",
+        "message-id": "02000000BB1C1F13",
+        "status": "0",
+        "remaining-balance": "9.73108300",
+        "message-price": "0.01200000",
+        "network": "40470"
+    }]
+}
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=8239285447&text=Your+order+id+46958169+payment+of+20.00+USD+is+shopper+cannot+fullfill..
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "8239285447",
+        "message-id": "03000000D3EED0B6",
+        "status": "0",
+        "remaining-balance": "9.69108300",
+        "message-price": "0.04000000",
+        "network": "KR-FIXED"
+    }]
+}
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=917073111585&text=%23%3A+57%0AAvngt+Ref.%3A+46958169%0AOrder+Total%3A+20.00+USD%0AStatus%3A+REVERSED
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "917073111585",
+        "message-id": "02000000BB1C1F8B",
+        "status": "0",
+        "remaining-balance": "9.67908300",
+        "message-price": "0.01200000",
+        "network": "40470"
+    }]
+}
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=917073111585&text=%23%3A+57%0AAvngt+Ref.%3A+46958169%0AOrder+Total%3A+20.00+USD%0AStatus%3A+REVERSED
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "917073111585",
+        "message-id": "02000000BB1C1FD0",
+        "status": "0",
+        "remaining-balance": "9.66708300",
+        "message-price": "0.01200000",
+        "network": "40470"
+    }]
+}
+KEY DATA746691788product214201602091401011420160209140101
+KEY HASH <EPAYMENT>20160209140101|9c9c1dc5a5f60679ff5bb4a209c846a4</EPAYMENT>
+\n\nLOGS START =======================================\n\n
+THRESHOLD10
+STORE OWNER917073111585
+SECRETVQfCT8O(GF@J)Ha5RXvt
+AUTHRECEIVED :  Your order id 46659462 payment of -22.34 USD is In progress.
+PENDING :  Your order id 46659462 payment of -22.34 USD is Pending.
+COMPLETE :  Your order id 46659462 payment of -22.34 USD is fulfilled.
+CANCELED :  Your order id 46659462 payment of -22.34 USD is canceled payment..
+REVERSED :  Your order id 46659462 payment of -22.34 USD is shopper cannot fullfill..
+REFUND :  Your order id 46659462 payment of -22.34 USD is refunded.
+PAYMENT_AUTHORIZED :  Your order id 46659462 payment of -22.34 USD is done.
+INVALID :  Your order id 46659462 payment of -22.34 USD is Billing/Delivery information is not valid.
+PAYMENT_RECEIVED :  Your order id 46659462 payment of -22.34 USD is received.
+PENDING_APPROVAL :  Your order id 46659462 payment of -22.34 USD is waiting for approval.
+STATUSrefunded
+STATUS 2REFUND
+MESSAGE_NIRAV Your order id 46659462 payment of -22.34 USD is refunded.
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=917073111585
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "status": "2",
+        "error-text": "Missing Message Text"
+    }]
+}
+\n\nLOGS START =======================================\n\n
+THRESHOLD10
+STORE OWNER917073111585
+SECRETVQfCT8O(GF@J)Ha5RXvt
+AUTHRECEIVED :  Your order id 46972981 payment of -10.00 EUR is In progress.
+PENDING :  Your order id 46972981 payment of -10.00 EUR is Pending.
+COMPLETE :  Your order id 46972981 payment of -10.00 EUR is fulfilled.
+CANCELED :  Your order id 46972981 payment of -10.00 EUR is canceled payment..
+REVERSED :  Your order id 46972981 payment of -10.00 EUR is shopper cannot fullfill..
+REFUND :  Your order id 46972981 payment of -10.00 EUR is refunded.
+PAYMENT_AUTHORIZED :  Your order id 46972981 payment of -10.00 EUR is done.
+INVALID :  Your order id 46972981 payment of -10.00 EUR is Billing/Delivery information is not valid.
+PAYMENT_RECEIVED :  Your order id 46972981 payment of -10.00 EUR is received.
+PENDING_APPROVAL :  Your order id 46972981 payment of -10.00 EUR is waiting for approval.
+STATUSrefunded
+STATUS 2REFUND
+MESSAGE_NIRAV Your order id 46972981 payment of -10.00 EUR is refunded.
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=8239285447&text=Your+order+id+46659462+payment+of+-22.34+USD+is+refunded.
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "8239285447",
+        "message-id": "03000000D3EED1C1",
+        "status": "0",
+        "remaining-balance": "9.62708300",
+        "message-price": "0.04000000",
+        "network": "KR-FIXED"
+    }]
+}
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=917073111585
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "status": "2",
+        "error-text": "Missing Message Text"
+    }]
+}
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=917073111585
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "status": "2",
+        "error-text": "Missing Message Text"
+    }]
+}
+KEY DATA7467471612Test Product14201602091401031420160209140103
+KEY HASH <EPAYMENT>20160209140103|9766745e61da037bc85ae28d510e6a77</EPAYMENT>
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=917073111585&text=Your+order+id+46972981+payment+of+-10.00+EUR+is+refunded.
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "to": "917073111585",
+        "message-id": "02000000BB1C20CF",
+        "status": "0",
+        "remaining-balance": "9.61508300",
+        "message-price": "0.01200000",
+        "network": "40470"
+    }]
+}
+Request URLl:https://rest.nexmo.com/sms/json?api_key=5b2a23d7&api_secret=59d9fa03&from=919222010055&to=917073111585
+JSON:{
+    "message-count": "1",
+    "messages": [{
+        "status": "2",
+        "error-text": "Missing Message Text"
+    }]
+}
+KEY DATA7467471612Test Product14201602091401031420160209140103
+KEY HASH <EPAYMENT>20160209140103|9766745e61da037bc85ae28d510e6a77</EPAYMENT>

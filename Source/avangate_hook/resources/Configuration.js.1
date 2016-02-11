@@ -1,0 +1,145 @@
+$(document).ready(function(){
+		
+		$("#aftervalidation").hide();
+		$("#webhooks").hide();
+		$("#validatekeys").click(function(){
+			validateKeys();
+		});
+	
+		$("#genwebhook").click(function(){
+			genWebHook();
+		});
+	
+	
+});
+
+function genWebHook()
+{
+	if($("#key").val() == ""){
+		$("#msgbox").show();
+		$("#error").text("Please enter the Nexmo Key.");
+		$("#key").focus();
+		return;
+	}
+	
+	if($("#secret").val() == ""){
+		$("#msgbox").show();
+		$("#error").text("Please enter the Nexmo Secret.");
+		$("#secret").focus();
+		return;
+	}
+	
+	if($("#thresholdamount").val() == ""){
+		$("#msgbox").show();
+		$("#error").text("Please enter the Threshold Amount.");
+		$("#thresholdamount").focus();
+		return;
+	}
+	
+	if($("#storename").val() == ""){
+		$("#msgbox").show();
+		$("#error").text("Please enter the Store Name.");
+		$("#storename").focus();
+		return;
+	}
+	
+	if($("#storephone").val() == ""){
+		$("#msgbox").show();
+		$("#error").text("Please enter the Store Phone Number.");
+		$("#storephone").focus();
+		return;
+	}
+	if($("#secreta").val() == ""){
+		$("#msgbox").show();
+		$("#error").text("Please enter the Avangate Secret.");
+		$("#secreta").focus();
+		return;
+	}
+	var home=window.location;
+	var api=$("#key").val();
+	var secret=$("#secret").val();
+	var threshold=$("#thresholdamount").val();
+	var storename=$("#storename").val();
+	var storephone=$("#storephone").val();
+	var secreta=$("#secreta").val();
+	var defaultFromNumber = $('#fromNumbers').find(":selected").val();
+	
+	
+	var oc64="avangate$#$"+api+"$#$"+secret+"$#$"+defaultFromNumber+"$#$"+threshold+"$#$"+storename+"$#$"+storephone+"$#$"+secreta;
+	var ordercreate=home+"callback.php?query="+btoa(oc64);
+	$("#ordercreate").val(ordercreate);
+	$("#fromfields").hide();
+	$("#webhooks").show();
+}
+
+function getFromNo(response) {
+	
+			  var obj = jQuery.parseJSON( response );
+		  
+		   $('#fromNumbers')
+   		 .empty();
+	for(i=0;i<obj.numbers.length;i++){
+		
+		
+		   $('<option/>', {
+   					 'text': obj.numbers[i].msisdn+"   "+obj.numbers[i].features,
+   					 'value':obj.numbers[i].msisdn,
+   					
+					}).appendTo('#fromNumbers');
+	}
+	$("#aftervalidation").show();
+	
+	
+	
+}
+function getPathFromUrl(url) {
+  return url.split("?")[0];
+}
+function validateKeys()
+  {
+  
+    var apiKeys=$("#key").val();
+	
+	if($("#key").val() == ""){
+		$("#msgbox").show();
+		$("#error").text("Please enter the Nexmo Key");
+		$("#key").focus();
+		return;
+	}
+	
+    var secret=$("#secret").val();
+   
+    if($("#secret").val() == ""){
+		$("#msgbox").show();
+		$("#error").text("Please enter the Nexmo Secret");
+		$("#secret").focus();
+		return;
+	}
+	$("#msgbox").hide();
+    
+    secret=$.trim(secret);
+   
+	urls=window.location+"/"+"index.php?req=validate&apiKeys="+apiKeys+"&secret="+secret;
+ 
+    $("#progressSpinner").show();
+    $.ajax({
+      url: urls,
+      type: "GET",
+      dataType: "json",
+     cache: false,
+     crossDomain: true,
+     processData: true,
+     contentType: "application/json",
+	  success:function(resp){
+	  		 $("#progressSpinner").hide();
+			 $("#validationdiv").hide();
+	  		getFromNo(resp);
+	  },
+	   error: function (XMLHttpRequest, textStatus, errorThrown) {
+		    $("#progressSpinner").hide();
+         alert("Please enter valid Nexmo Key and Secret.");
+     }
+    });
+  
+  
+  }
